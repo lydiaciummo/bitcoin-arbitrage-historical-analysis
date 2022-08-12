@@ -1,0 +1,50 @@
+  463  conda create --name dev python=3.7 anaconda
+  464  conda activate de v
+  465  conda activate dev
+  466  jupyter lab
+  467  conda deactivate
+  468  conda activate dev
+  469  jupyter lab
+  470  jupyter trust missing_money.ipynb
+  471  jupyter lab
+  472  conda deactivate
+  473  conda activate dev
+  474  jupyter lav
+  475  jupyter lab
+  476  conda deactivate
+  477  conda activate dev
+  478  jupyter lab
+  479  conda deactivate
+  480  conda activate dev
+  481  jupyter lab
+  482  conda deactivate
+  483  cd onedrive/boot_camp/challenges/module_3_challenge
+  484  git clone git@github.com:lydiaciummo/bitcoin-arbitrage-historical-analysis.git
+  485  ls
+  486  git status
+  487  cd bitcoin-arbitrage-historical-alalysis
+  488  cd bitcoin-arbitrage-historical-analysis
+  489  git status
+  490  git add Resouces/
+  491  git add Resources/
+  492  git add crypto_arbitrage.ipynb
+  493  git status
+  494  git commit -m "Added the starter code and CSV files containing bitcoin exchange data"
+  495  git push
+  496  git status
+  497  git add crypto_arbitrage.ipynb
+  498  git status
+  499  git commit -m "wrote the code for steps 1 through 4"
+  500  git push
+  501  cd onedrive/boot_camp/challenges/module_3_challenge/bitcoin-arbitrage-historical-analysis
+  502  git status
+  503  git add crypto_arbitrage.ipnb
+  504  git add crypto_arbitrage.ipynb
+  505  git status
+  506  git commit -m "Wrote code for all steps of data collection, preparation, and analysis."
+  507  git push
+  508  git status
+  509  git add crypto_arbitrage.ipynb
+  510  git commit -m "Edited the markdown and added comments to complete the report"
+  511  git push
+  512  history 50 > terminal_history.txt
